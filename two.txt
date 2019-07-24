@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 tghe
 jduu
@@ -7,3 +8,7 @@ ttttt
 hi
 sahil
 
+=======
+hi
+sahil
+>>>>>>> c47dfd9fa4bce7d4456c06c898decdb67ac3de50
