@@ -9,4 +9,7 @@ das
 devika
 hiii
 helloooo
+<<<<<<< HEAD
 >>>>>>> ea8524e... jh
+=======
+>>>>>>> ea8524ebbaeee06468361163395f00097534fc5b
