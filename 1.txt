@@ -1,2 +1,12 @@
+<<<<<<< HEAD
 hi
 hello
+=======
+hghjg
+gghu
+yu
+das
+devika
+hiii
+helloooo
+>>>>>>> ea8524e... jh
