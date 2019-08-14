@@ -1,3 +1,6 @@
+package hexa;
+import java.util.Objects;
+
 public class Student
 {
   static int count=0;
@@ -48,7 +51,26 @@ public class Student
   public int hashCode()
   {
    return Objects.hash(this.name,this.course);
-  } 
+  }
+  public boolean validateCourse() {
+    if (this.course.compareTo("java")==0)
+    return true;
+    else
+    return false;
+  }
+  public boolean validateCourse(String argCourse) {
+    if (this.course.compareTo(argCourse)==0)
+    return true;
+    else
+    return false;
+  }
+  public boolean validateCourse(String argCourse1, String argCourse2) {
+    if (argCourse1.compareTo(argCourse2)==0)
+    return true;
+    else
+    return false;
+  }
+  
   public static void main(String[] args)
   {
    
